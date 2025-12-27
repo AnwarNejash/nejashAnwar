@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nejashAnwar/static/css/main.8153a698.css",
+    "main.js": "/nejashAnwar/static/js/main.a4bfec85.js",
+    "static/js/453.9e94deb6.chunk.js": "/nejashAnwar/static/js/453.9e94deb6.chunk.js",
+    "static/media/nejash1.jpg": "/nejashAnwar/static/media/nejash1.221bcdeed0a1c96c0bc3.jpg",
+    "static/media/nejash2-47.jpg": "/nejashAnwar/static/media/nejash2-47.5a272c44ce22f428fb12.jpg",
+    "static/media/haramaya-logo.png": "/nejashAnwar/static/media/haramaya-logo.4de1d1d48442553ac0ee.png",
+    "index.html": "/nejashAnwar/index.html",
+    "main.8153a698.css.map": "/nejashAnwar/static/css/main.8153a698.css.map",
+    "main.a4bfec85.js.map": "/nejashAnwar/static/js/main.a4bfec85.js.map",
+    "453.9e94deb6.chunk.js.map": "/nejashAnwar/static/js/453.9e94deb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8153a698.css",
+    "static/js/main.a4bfec85.js"
+  ]
+}
