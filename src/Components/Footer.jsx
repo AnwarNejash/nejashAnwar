@@ -21,7 +21,7 @@ const Footer = () => {
             <a href="https://twitter.com" className="social-link">
               <FaTwitter size={20} />
             </a>
-            <a href="https://facebook.com" className="social-link">
+            <a href="https://www.facebook.com/share/1F316BKctx/" className="social-link">
               <FaFacebook size={20} />
             </a>
             <a href="https://tiktoke.com" className="social-link">
