@@ -64,7 +64,7 @@ const Contact = () => {
               </div>
               <div className="contact-details">
                 <h4>Email</h4>
-                <p>your.email@example.com</p>
+                <p>nejasha17@gmail.com</p>
                 <p style={{ fontSize: '0.9rem', color: 'var(--text-light)' }}>
                   Response time: Within 24 hours
                 </p>
